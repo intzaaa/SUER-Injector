@@ -1,0 +1,1 @@
+SUER-Injector is a simple and lightweight (no "for") batch script for Microsoft Windows systems that helps you **easily** and **freely** inject files into the iFLYTEK tablet that *your school requires you to buy*.
